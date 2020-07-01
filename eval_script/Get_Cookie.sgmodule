@@ -150,7 +150,7 @@ Get_Cookie.js = type=http-request,requires-body=1,pattern=^https:\/\/clientacces
 
 Get_Cookie.js = type=http-request,requires-body=1,pattern=^https:\/\/clientaccess.10086.cn\/biz-orange\/BN\/realFeeQuery\/getRealFee,script-path=Get_Cookie.js
 
-Get_Cookie.js = type=http-request,pattern=^https:\/\/user-api-prd-mx\.wandafilm\.com\/user\/islogin\.api,script-path=Get_Cookie.js
+Get_Cookie.js = type=http-request,pattern=^https:\/\/user-api-prd-mx\.wandafilm\.com,script-path=Get_Cookie.js
 
 Get_Cookie.js = type=http-request,pattern=^https:\/\/h5\.ele\.me\/restapi\/eus\/v\d\/current_user$,script-path=Get_Cookie.js
 
