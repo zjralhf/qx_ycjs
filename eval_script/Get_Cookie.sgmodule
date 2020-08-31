@@ -1,18 +1,18 @@
 #!name=eval_script.js module
 
 [MITM]
-hostname = %INSERT% proxy.vac.qq.com,*.xmcimg.com,as.xiaojukeji.com,note.youdao.com,ios.baertt.com,api.m.jd.com,music.163.com,c.tieba.baidu.com,weibo.com,*.iqiyi.com,*.smzdm.com,*.v2ex.com,www.52pojie.cn,*.bilibili.com,*.feng.com,*.video.qq.com,*.acfun.cn,*.rrys2019.com,mobwsa.ximalaya.com,*.rr.tv,www.flyertea.com,wapside.189.cn,sf-integral-sign-in.weixinjia.net,h5.ele.me,*.you.163.com,apk.tw,api.dongqiudi.com,*.m.163.com,user.qunar.com,yuba.douyu.com,ios.zmzapi.com,*.y.qq.com,*.csdn.net,m.ctrip.com,m.gdoil.cn,credits.bz.mgtv.com,api-takumi.mihoyo.com,act.10010.com,e.189.cn,www.maomicd.com,wx.10086.cn,mtrace.qq.com,www.lltxt.com,weclub.ccc.cmbchina.com,promotion.waimai.meituan.com,i.meituan.com,daojia.jd.com,api-hdcj.9w9.com,api.everphoto.cn,group.baicizhan.com,maicai.api.ddxq.mobi,pm.m.fenqile.com,ms.jr.jd.com,nebula.kuaishou.com,api.dushu.io,node.kg.qq.com,app.nio.com,wxprdapplet.gac-nio.com,activity-1.m.duiba.com.cn,m.client.10010.com,m-bean.kaola.com,110.43.90.61,zt.wps.cn,xiaoshuo.qm989.com,passport.suning.com,luckman.suning.com,sign.suning.com,gameapi.suning.com,m.ximalaya.com,iphone.myzaker.com,draw.jdfcloud.com,sapi.beingfine.cn,icbc1.wlphp.com,wx.17u.cn,frodo.douban.com,mcs-mimp-web.sf-express.com,gameapi.hellobike.com,mwegame.qq.com,api.1sapp.com,tieba.baidu.com,app.jf.360.cn,api.weibo.cn,pay.sc.weibo.com,api.inews.qq.com,newsapi.sina.cn,*.youth.cn,apiwz.midukanshu.com,www.duokan.com,h5.youzan.com,api.infzm.com,api.xiaoheihe.cn,exp.angelalign.com,ngabbs.com,api.umer.com.cn,app*.jegotrip.com.cn,task.jegotrip.com.cn,my.ruanmei.com,www.mydigit.cn,wx-mini.pagoda.com.cn,m.weibo.cn,apapia-history.manmanbuy.com,weather-data.apple.com,mall.oclean.com,api.cashtoutiao.com,user-api-prd-mx.wandafilm.com,h5.bianlifeng.com,teacherapi.zmlearn.com,clientaccess.10086.cn,vip.heytea.com,webapi.qmai.cn,proapi.115.com,appv8.qukantianxia.com,appv7.qukantx.com,xwsh.javamall.cn
+hostname = %INSERT% proxy.vac.qq.com,*.xmcimg.com,as.xiaojukeji.com,note.youdao.com,ios.baertt.com,api.m.jd.com,music.163.com,c.tieba.baidu.com,weibo.com,*.iqiyi.com,*.smzdm.com,*.v2ex.com,www.52pojie.cn,*.bilibili.com,*.feng.com,*.video.qq.com,*.acfun.cn,*.rrys2019.com,mobwsa.ximalaya.com,*.rr.tv,www.flyertea.com,wapside.189.cn,sf-integral-sign-in.weixinjia.net,h5.ele.me,*.you.163.com,apk.tw,api.dongqiudi.com,*.m.163.com,user.qunar.com,yuba.douyu.com,ios.zmzapi.com,*.y.qq.com,*.csdn.net,m.ctrip.com,m.gdoil.cn,credits.bz.mgtv.com,api-takumi.mihoyo.com,act.10010.com,e.189.cn,www.maomicd.com,wx.10086.cn,mtrace.qq.com,www.lltxt.com,weclub.ccc.cmbchina.com,promotion.waimai.meituan.com,i.meituan.com,daojia.jd.com,api-hdcj.9w9.com,api.everphoto.cn,group.baicizhan.com,maicai.api.ddxq.mobi,pm.m.fenqile.com,ms.jr.jd.com,nebula.kuaishou.com,api.dushu.io,node.kg.qq.com,app.nio.com,wxprdapplet.gac-nio.com,activity-1.m.duiba.com.cn,m.client.10010.com,m-bean.kaola.com,110.43.90.61,zt.wps.cn,xiaoshuo.qm989.com,passport.suning.com,luckman.suning.com,sign.suning.com,gameapi.suning.com,m.ximalaya.com,iphone.myzaker.com,draw.jdfcloud.com,sapi.beingfine.cn,icbc1.wlphp.com,wx.17u.cn,frodo.douban.com,mcs-mimp-web.sf-express.com,gameapi.hellobike.com,mwegame.qq.com,api.1sapp.com,tieba.baidu.com,app.jf.360.cn,api.weibo.cn,pay.sc.weibo.com,api.inews.qq.com,newsapi.sina.cn,*.youth.cn,apiwz.midukanshu.com,www.duokan.com,mobile01.91quzou.com,mk.immomo.com,huiyuan.163.com,geekhub.com,cxdng.cpic.com.cn,h5.youzan.com,api.infzm.com,api.xiaoheihe.cn,exp.angelalign.com,ngabbs.com,api.umer.com.cn,app*.jegotrip.com.cn,task.jegotrip.com.cn,my.ruanmei.com,www.mydigit.cn,wx-mini.pagoda.com.cn,m.weibo.cn,apapia-history.manmanbuy.com,weather-data.apple.com,mall.oclean.com,api.cashtoutiao.com,user-api-prd-mx.wandafilm.com,h5.bianlifeng.com,teacherapi.zmlearn.com,clientaccess.10086.cn,vip.heytea.com,webapi.qmai.cn,proapi.115.com,iface?.iqiyi.com,appv8.qukantianxia.com,appv7.qukantx.com,xwsh.javamall.cn
 
 [Script]
 Get_Cookie.js = type=http-request,pattern=https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean,script-path=Get_Cookie.js
 
-Get_Cookie.js = type=http-request,pattern=https?:\/\/.*\.iqiyi\.com\/.*authcookie=,script-path=Get_Cookie.js
+Get_Cookie.js = type=http-request,pattern=^https:\/\/iface\d\.iqiyi\.com\/.+?psp_cki=,script-path=Get_Cookie.js
 
 Get_Cookie.js = type=http-request,pattern=https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login,script-path=Get_Cookie.js
 
 Get_Cookie.js = type=http-request,pattern=https:\/\/www\.52pojie\.cn\/home\.php\?mod=space,script-path=Get_Cookie.js
 
-Get_Cookie.js = type=http-request,pattern=https:\/\/manga\.bilibili\.com\/.*\.User\/GetWallet,script-path=Get_Cookie.js
+Get_Cookie.js = type=http-request,pattern=^https:\/\/passport\.biligame\.com\/api\/login\/sso.+?version%22%3A%22(3|4|5),script-path=Get_Cookie.js
 
 Get_Cookie.js = type=http-request,pattern=https?:\/\/c\.tieba\.baidu\.com\/c\/s\/login,script-path=Get_Cookie.js
 
@@ -178,7 +178,7 @@ Get_Cookie.js = type=http-request,pattern=https:\/\/nebula\.kuaishou\.com\/rest\
 
 Get_Cookie.js = type=http-request,pattern=https:\/\/draw\.jdfcloud\.com\/\/api\/bean\/square\/silverBean\/task\/get\?,script-path=Get_Cookie.js
 
-Get_Cookie.js = type=http-request,pattern=http:\/\/act\.gaoqingdianshi\.com\/\/api\/v4\/sign\/signin\?accelerate=0&ext=0&ticket=,script-path=Get_Cookie.js
+Get_Cookie.js = type=http-request,pattern=http:\/\/api\.gaoqingdianshi\.com\/api\/v\d\/sign\/signin,script-path=Get_Cookie.js
 
 Get_Cookie.js = type=http-request,pattern=http:\/\/api\.gaoqingdianshi\.com\/api\/v2\/cash\/withdrawal\?code=,script-path=Get_Cookie.js
 
@@ -234,7 +234,7 @@ Get_Cookie.js = type=http-request,pattern=https://m.ximalaya.com/wechat/,script-
 
 Get_Cookie.js = type=http-request,pattern=^https://app.jf.360.cn/signin/index/index,script-path=Get_Cookie.js
 
-Get_Cookie.js = type=http-request,pattern=^https:\/\/api\.weibo\.cn\/2\/(cardlist|page\/button),script-path=Get_Cookie.js
+Get_Cookie.js = type=http-request,pattern=^https?://m?api\.weibo\.c(n|om)\/2\/(cardlist|page\/button),script-path=Get_Cookie.js
 
 Get_Cookie.js = type=http-request,pattern=https:\/\/h5\.youzan\.com\/wscump\/checkin\/checkin,script-path=Get_Cookie.js
 
@@ -256,6 +256,10 @@ Get_Cookie.js = type=http-request,pattern=https:\/\/(appv8\.qukantianxia|appv7\.
 
 Get_Cookie.js = type=http-request,pattern=https:\/\/xwsh\.javamall\.cn,script-path=Get_Cookie.js
 
+Get_Cookie.js = type=http-request,pattern=https:\/\/mobile01\.91quzou\.com\/rebate\/qz\/task\/homeTaskView\.do,script-path=Get_Cookie.js
+
+Get_Cookie.js = type=http-request,requires-body=1,pattern=https:\/\/mk\.immomo\.com\/activity\/fastsign\/index\/signIn?,script-path=Get_Cookie.js
+
 Get_Cookie.js = type=http-request,pattern=https://weather-data.apple.com,script-path=Get_Cookie.js
 
 Get_Cookie.js = type=http-response,requires-body=1,pattern=https?:\/\/app.*\.jegotrip\.com\.cn\/.*getUser\?,script-path=Get_Cookie.js
@@ -267,3 +271,13 @@ Get_Cookie.js = type=http-request,pattern=https?:\/\/api\.umer\.com\.cn\/.*getCu
 Get_Cookie.js = type=http-request,pattern=^https:\/\/exp.angelalign.com\/api\/v1\/mini_program\/get_plan_list,script-path=Get_Cookie.js
 
 Get_Cookie.js = type=http-request,requires-body=1,pattern=^https:\/\/ngabbs.com\/nuke.php\??,script-path=Get_Cookie.js
+
+Get_Cookie.js = type=http-request,pattern=^https:\/\/draw\.jdfcloud\.com\/\/pet\/enterRoom\?reqSource=weapp&invitePin=.*+(&inviteSource=task_invite&shareSource=\w+&inviteTimeStamp=\d+&openId=\w+)?|^https:\/\/draw\.jdfcloud\.com\/\/pet\/helpFriend\?friendPin,script-path=Get_Cookie.js
+
+Get_Cookie.js = type=http-request,pattern=^https?:\/\/e\.189\.cn\/store\/user\/balance_new\.do,script-path=Get_Cookie.js
+
+Get_Cookie.js = type=http-request,pattern=^https:\/\/huiyuan\.163\.com\/jf\-mall\-api\/api\/sign_up\/(lucky|normal),script-path=Get_Cookie.js
+
+Get_Cookie.js = type=http-request,pattern=^https:\/\/geekhub\.com\/checkins\/start,script-path=Get_Cookie.js
+
+Get_Cookie.js = type=http-request,pattern=^https:\/\/cxdng\.cpic\.com\.cn\/taieshop\/api\/CustomerFansInfo\/GetFansInfo,script-path=Get_Cookie.js
